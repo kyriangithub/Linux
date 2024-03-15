@@ -1,6 +1,6 @@
-## Linux
+# Linux
 
-Linux Fundamentals with Darey.io
+### Learning Linux Fundamentals with Darey.io 
 
 cd ~/Downloads : Change directory into downloads
 

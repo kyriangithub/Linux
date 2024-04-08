@@ -10,7 +10,9 @@ ssh -i "youtube007.pem" ubuntu@ec2-34-207-224-98.compute-1.amazonaws.com
 
 ![Screenshot 2024-03-15 153655](https://github.com/kyriangithub/Linux/assets/134151451/6d07cd47-b00c-4550-a15c-79c030f45936)
 
+# File Permission Commands 
 
+![Screenshot 2024-04-08 104917](https://github.com/kyriangithub/Linux/assets/134151451/f5fe3c9b-9429-4e0a-aa8f-00fa18736cf9)
 
 
 

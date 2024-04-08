@@ -20,5 +20,9 @@ ssh -i "youtube007.pem" ubuntu@ec2-34-207-224-98.compute-1.amazonaws.com
 
 ![Screenshot 2024-04-08 114842](https://github.com/kyriangithub/Linux/assets/134151451/e9867ac9-2b15-4a3c-94fe-637b2287bfbc)
 
+# Creating a Group, Adding users to the group and Verifying group memberships
+
+![Screenshot 2024-04-08 120142](https://github.com/kyriangithub/Linux/assets/134151451/12e78805-51dc-40f1-a256-4164a178ed89)
+
 
 
